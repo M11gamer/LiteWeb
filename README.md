@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/516192893086728204/517081819557134336/MOSHED-2018-11-27-15-55-30.gif)
+![image](https://cdn.discordapp.com/icons/516192892520235030/67b22dee7e13a9a917c605841bcfa2ba.webp)
 # Deep Space Station
 
 Discord: https://discord.gg/KtJ4jtn
