@@ -16,8 +16,8 @@
 	allowed_spawns = list("Arrivals Shuttle", "Cryogenic Storage")
 	default_spawn = "Arrivals Shuttle"
 
-	station_name  = "SSNI Dreyfus"
-	station_short = "Dreyfus"
+	station_name  = "Pratus V"
+	station_short = "Pratus V"
 	dock_name     = "NTTM1-54 Relay" // sur Charnay-4
 	boss_name     = "Colonial Magistrate Council"
 	boss_short    = "Council"
