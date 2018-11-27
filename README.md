@@ -1,4 +1,7 @@
-# InterBay
+![image](https://cdn.discordapp.com/icons/516192892520235030/67b22dee7e13a9a917c605841bcfa2ba.webp)
+# Deep Space Station
+
+Discord: https://discord.gg/KtJ4jtn
 
 [Baystation's Website](http://baystation12.net/) - [InterBay's Code](http://github.com/mattroks101/InterBay/)
 ---
