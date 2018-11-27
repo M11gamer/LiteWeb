@@ -196,23 +196,23 @@ GUEST_BAN
 # USECKEYWHITELIST
 
 ## set a server location for world reboot. Don't include the byond://, just give the address and port.
-#SERVER server.net:port
+SERVER 212.129.2.86:3035
 
 ## set a server URL for the IRC bot to use; like SERVER, don't include the byond://
 ## Unlike SERVER, this one shouldn't break auto-reconnect
 #SERVERURL server.net:port
 
 ## forum address
-# FORUMURL http://example.com
+FORUMURL https://discord.gg/KtJ4jtn
 
 ## Wiki address
-# WIKIURL http://example.com
+WIKIURL https://discord.gg/KtJ4jtn
 
 ## GitHub address
-# GITHUBURL https://github.com/example-user/example-repository
+GITHUBURL https://github.com/2cwldys/Deep-Space-Station
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS http://example.com
+BANAPPEALS https://discord.gg/KtJ4jtn
 
 ## In-game features
 ## spawns a spellbook which gives object-type spells instead of verb-type spells for the wizard
@@ -232,7 +232,7 @@ GUEST_BAN
 ALLOW_HOLIDAYS
 
 ##Defines the ticklag for the world.  0.9 is the normal one, 0.5 is smoother.
-TICKLAG 0.5
+TICKLAG 0.4
 
 ##Defines world FPS. Defaults to 20.
 # FPS 20
@@ -360,7 +360,7 @@ ALIEN_EGGS_ALLOWED
 #DISABLE_RESPAWN
 
 ## Respawn delay in minutes before one may respawn as a crew member.
-#RESPAWN_DELAY 30
+RESPAWN_DELAY 10
 
 ## Strength of ambient star light. Set to 0 or less to turn off. A value of 1 is unlikely to have a noticeable effect in most lighting systems.
 STARLIGHT 0
