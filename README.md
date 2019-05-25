@@ -1,9 +1,7 @@
 ![image](https://cdn.discordapp.com/icons/516192892520235030/67b22dee7e13a9a917c605841bcfa2ba.webp)
-# Resurgence (Space Station 13)
+# LiteWeb (Space Station 13)
 
-Discord: https://discord.gg/KtJ4jtn
-
-This codebase is using Interbay 1.0 code, which currently uses Baystation 12's codebase variant of /tg/'s codebase at the time of Interbay 1.0's development. While having plans to touch on Persistence, and other means of great features from other codebases and spirited freelance developers. We are currently and actively developing lore for the server.. if you'd like to contribute in that direction (the easiest way to contribute possible) .. Join our discord!
+This codebase is using Interbay 1.0 code, which currently uses Baystation 12's codebase variant of /tg/'s codebase at the time of Interbay 1.0's development.
 
 [Baystation's Website](http://baystation12.net/) - [InterBay's Code](http://github.com/mattroks101/InterBay/)
 ---
