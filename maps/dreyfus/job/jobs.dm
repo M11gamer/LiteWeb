@@ -62,6 +62,21 @@
 		..()
 		H.add_stats(rand(6,9), rand(9,11), rand(10,12))
 
+/datum/job/jester
+	title = "Jester"
+	supervisors = "the Magistrate"
+	minimal_player_age = 20
+	economic_modifier = 5
+	ideal_character_age = 24
+	total_positions = 1
+	spawn_positions = 1
+	outfit_type = /decl/hierarchy/outfit/job/dreyfus/adjoint
+	social_class = SOCIAL_CLASS_HIGH
+
+	equip(var/mob/living/carbon/human/H)
+		..()
+		H.add_stats(rand(6,9), rand(9,11), rand(10,12))
+
 /datum/job/employe
 	title = "Employe Administratif"
 	supervisors = "the Overseer"
