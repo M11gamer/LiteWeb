@@ -80,6 +80,15 @@
 		to_chat(user, "You lower the visor on the [src].")
 	update_clothing_icon()
 
+/obj/item/clothing/head/helmet/cerberus
+	name = "dog's helmet"
+	desc = "It's a helmet specifically designed to protect against close range attacks."
+	icon_state = "cerberus"
+	flags_inv = HIDEEARS|HIDEEYES|HIDEFACE|BLOCKHAIR
+	body_parts_covered = HEAD|FACE|EYES
+	armor = list(melee = 82, bullet = 15, laser = 5, energy = 5, bomb = 5, bio = 2, rad = 0)
+	siemens_coefficient = 0.7
+
 /obj/item/clothing/head/helmet/ablative
 	name = "ablative helmet"
 	desc = "A helmet made from advanced materials which protects against concentrated energy weapons."

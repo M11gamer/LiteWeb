@@ -38,6 +38,16 @@
 	cold_protection = UPPER_TORSO|LOWER_TORSO|ARMS
 	heat_protection = UPPER_TORSO|LOWER_TORSO|ARMS
 
+/obj/item/clothing/suit/armor/vest/cerberus
+	name = "veteran's armor"
+	desc = "An armoured jacket with silver rank pips and livery."
+	icon_state = "cerberus"
+	//item_state = "armor"
+	armor = list(melee = 50, bullet = 15, laser = 50, energy = 10, bomb = 25, bio = 0, rad = 0)
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS
+	cold_protection = UPPER_TORSO|LOWER_TORSO|ARMS
+	heat_protection = UPPER_TORSO|LOWER_TORSO|ARMS
+
 
 /obj/item/clothing/suit/armor/riot
 	name = "riot suit"
