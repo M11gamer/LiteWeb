@@ -20,6 +20,16 @@
 	id_type = /obj/item/weapon/card/id/dreyfus/hop
 	pda_type = /obj/item/device/pda/heads/hop
 
+/decl/hierarchy/outfit/job/dreyfus/jester
+	name = OUTFIT_JOB_NAME("Jester")
+	l_ear = /obj/item/device/radio/headset/heads/hop
+	uniform = /obj/item/clothing/under/rank/jester
+	head = /obj/item/clothing/head/jester
+	shoes = /obj/item/clothing/shoes/dress
+	id_type = /obj/item/weapon/card/id/dreyfus/hop
+	pda_type = /obj/item/device/pda/heads/hop
+
+
 /decl/hierarchy/outfit/job/dreyfus/employe
 	name = OUTFIT_JOB_NAME("Employe Administratif")
 	l_ear = /obj/item/device/radio/headset/headset_com

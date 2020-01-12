@@ -20,7 +20,7 @@
 						///datum/job/chaplain,
 						/datum/job/janitor,
 						/datum/job/arbiter,
-						/datum/job/supreme_arbiter						
+						/datum/job/supreme_arbiter
 						///datum/job/rd,
 						///datum/job/scientist,
 						///datum/job/raider,
@@ -49,7 +49,7 @@
 						///datum/job/chaplain,
 						/datum/job/janitor,
 						/datum/job/arbiter,
-						/datum/job/supreme_arbiter						
+						/datum/job/supreme_arbiter
 						///datum/job/rd,
 						///datum/job/scientist,
 						///datum/job/raider,
@@ -76,10 +76,11 @@
 						/datum/job/mining,
 						/datum/job/ouvrier,
 						/datum/job/chef,
+						/datum/job/jester,
 						///datum/job/chaplain,
 						/datum/job/janitor,
 						/datum/job/arbiter,
-						/datum/job/supreme_arbiter,						
+						/datum/job/supreme_arbiter,
 						/datum/job/rd,
 						/datum/job/scientist
 						///datum/job/raider,
@@ -124,6 +125,21 @@
 	minimal_player_age = 31
 	economic_modifier = 5
 	ideal_character_age = 45
+	total_positions = 1
+	spawn_positions = 1
+	outfit_type = /decl/hierarchy/outfit/job/dreyfus/adjoint
+	social_class = SOCIAL_CLASS_HIGH
+
+	equip(var/mob/living/carbon/human/H)
+		..()
+		H.add_stats(rand(6,9), rand(9,11), rand(10,12))
+
+/datum/job/jester
+	title = "Jester"
+	supervisors = "the Magistrate"
+	minimal_player_age = 20
+	economic_modifier = 5
+	ideal_character_age = 24
 	total_positions = 1
 	spawn_positions = 1
 	outfit_type = /decl/hierarchy/outfit/job/dreyfus/adjoint

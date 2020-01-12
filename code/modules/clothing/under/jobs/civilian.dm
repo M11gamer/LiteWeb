@@ -23,6 +23,13 @@
 	item_state = "magistrate"
 	worn_state = "magistrate"
 
+/obj/item/clothing/under/rank/jester
+	name = "jester's uniform"
+	desc = "A quirky outfit worn by the jester."
+	icon_state = "jester"
+	item_state = "jester"
+	worn_state = "jester"
+
 
 /obj/item/clothing/under/rank/cargo
 	name = "quartermaster's jumpsuit"

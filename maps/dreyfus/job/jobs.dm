@@ -15,7 +15,8 @@
 						/datum/job/ouvrier,
 						/datum/job/chef,
 						/datum/job/chaplain,
-						/datum/job/janitor
+						/datum/job/janitor,
+						/datum/job/jester
 						///datum/job/raider,
 						///datum/job/raider/leader
 						)

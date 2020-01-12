@@ -100,6 +100,14 @@
 	flags_inv = BLOCKHAIR
 	body_parts_covered = HEAD|FACE|EYES
 
+/obj/item/clothing/head/jester
+	name = "jester's hat"
+	desc = "A funny-looking jester's hat for the station's comedian."
+	icon_state = "jester"
+	item_state = "jester"
+	flags_inv = BLOCKHAIR
+	body_parts_covered = HEAD
+
 /obj/item/clothing/head/greenbandana
 	name = "green bandana"
 	desc = "It's a green bandana with some fine nanotech lining."
