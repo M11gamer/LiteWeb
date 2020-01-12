@@ -5,7 +5,5 @@
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
 
-2cwldys - Host
-Infinitystrueend - GameAdmin
-Re1Taz - GameAdmin
-LuigiBoiBY - GameAdmin
+Ivory_Queen - Host
+ThuxTK - HeadDeveloper
