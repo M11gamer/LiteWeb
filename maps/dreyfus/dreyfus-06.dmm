@@ -249,7 +249,7 @@
 "eO" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply{tag = "icon-intact-supply (NORTHWEST)"; icon_state = "intact-supply"; dir = 9},/turf/simulated/floor/tiled/dark,/area/dreyfus/coupole/chapelle)
 "eP" = (/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/food/drinks/bottle/holywater,/turf/simulated/floor/tiled/dark,/area/dreyfus/coupole/chapelle)
 "eQ" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/bible,/turf/simulated/floor/tiled/dark,/area/dreyfus/coupole/chapelle)
-"eR" = (/obj/structure/table/woodentable,/turf/simulated/floor/tiled/dark,/area/dreyfus/coupole/chapelle)
+"eR" = (/obj/structure/table/woodentable,/obj/item/weapon/material/cross,/turf/simulated/floor/tiled/dark,/area/dreyfus/coupole/chapelle)
 "eS" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/item/weapon/wrench,/turf/simulated/floor/airless,/area/space)
 "eT" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/external{frequency = 1379; icon_state = "door_locked"; id_tag = "evapar_int"; locked = 1},/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (NORTH)"; icon_state = "intact"; dir = 1},/turf/simulated/floor/tiled/techfloor/grid,/area/dreyfus/coupole/solaire/arriere/control)
 "eU" = (/obj/structure/sign/warning/vacuum,/turf/simulated/wall/r_wall,/area/dreyfus/coupole/solaire/arriere/control)
