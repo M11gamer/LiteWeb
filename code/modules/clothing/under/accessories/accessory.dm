@@ -594,6 +594,11 @@
 	icon_state = "necklace"
 	slot_flags = SLOT_MASK | SLOT_TIE
 
+/obj/item/clothing/accessory/crossnecklace
+	name = "cross"
+	desc = "A simple cross."
+	icon_state = "cross"
+	slot_flags = SLOT_MASK | SLOT_TIE
 
 //Misc
 /obj/item/clothing/accessory/kneepads

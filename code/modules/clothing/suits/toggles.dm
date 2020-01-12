@@ -126,3 +126,8 @@
 	name = "mining winter coat"
 	icon_state = "coatminer"
 	armor = list(melee = 10, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 0)
+
+/obj/item/clothing/suit/storage/hooded/wintercoat/janitor
+	name = "janitor's cloak"
+	icon_state = "janitor"
+	armor = list(melee = 10, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 0)

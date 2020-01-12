@@ -444,3 +444,23 @@
 	name = "\improper Magistrate"
 	desc = "How regal."
 	icon_state = "magistrate"
+
+/obj/structure/sign/porn1
+	name = "\improper Adult Poster"
+	desc = "IM GONNA COOOOOOM"
+	icon_state = "porn1"
+
+/obj/structure/sign/porn2
+	name = "\improper Adult Poster"
+	desc = "IM GONNA COOOOOOM"
+	icon_state = "porn2"
+
+/obj/structure/sign/porn3
+	name = "\improper Adult Poster"
+	desc = "IM GONNA COOOOOOM"
+	icon_state = "porn3"
+
+/obj/structure/sign/porn4
+	name = "\improper Adult Poster"
+	desc = "IM GONNA COOOOOOM"
+	icon_state = "porn4"

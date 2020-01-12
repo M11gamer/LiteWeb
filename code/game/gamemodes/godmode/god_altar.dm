@@ -1,3 +1,14 @@
+/obj/structure/statue
+	name = "Statue"
+	desc = "A structure made for the express purpose of religion."
+	icon = 'icons/obj/structures.dmi'
+	icon_state = "churchstatue"
+	density = 1
+	anchored = 1
+	flags = CONDUCT
+	layer = BELOW_OBJ_LAYER
+	explosion_resistance = 1
+
 /obj/structure/deity/altar
 	name = "altar"
 	desc = "A structure made for the express purpose of religion."

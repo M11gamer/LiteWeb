@@ -69,3 +69,16 @@
 	default_material = "steel"
 	force_divisor = 1.1
 	slot_flags = SLOT_BACK
+
+/obj/item/weapon/material/club
+	name = "Club"
+	desc = "Smash some skulls on a swing!"
+	icon_state = "club"
+	item_state = "club"
+	w_class = ITEM_SIZE_LARGE
+	throwforce = 5
+	attack_verb = list("smashed", "beaten", "slammed", "smacked", "struck", "battered", "bonked")
+	hitsound = 'sound/weapons/genhit3.ogg'
+	default_material = "steel"
+	force_divisor = 2.2
+	slot_flags = SLOT_BACK
