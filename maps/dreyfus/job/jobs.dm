@@ -70,7 +70,7 @@
 	ideal_character_age = 24
 	total_positions = 1
 	spawn_positions = 1
-	outfit_type = /decl/hierarchy/outfit/job/dreyfus/adjoint
+	outfit_type = /decl/hierarchy/outfit/job/dreyfus/jester
 	social_class = SOCIAL_CLASS_HIGH
 
 	equip(var/mob/living/carbon/human/H)

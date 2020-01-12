@@ -57,3 +57,15 @@ var/datum/announcement/minor/captain_announcement = new(do_newscast = 1)
 
 	outfit_type = /decl/hierarchy/outfit/job/hop
 	announced = 1
+
+/datum/job/jester
+	title = "Jester"
+	supervisors = "the Magistrate"
+	minimal_player_age = 20
+	economic_modifier = 5
+	ideal_character_age = 24
+	selection_color = "#1d1d4f"
+	total_positions = 1
+	spawn_positions = 1
+	outfit_type = /decl/hierarchy/outfit/job/dreyfus/jester
+	social_class = SOCIAL_CLASS_HIGH
