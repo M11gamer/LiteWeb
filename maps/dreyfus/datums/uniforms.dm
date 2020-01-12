@@ -81,8 +81,7 @@
 	name = OUTFIT_JOB_NAME("Peacekeeper")
 	uniform = /obj/item/clothing/under/syndicate/soldier
 	shoes = /obj/item/clothing/shoes/jackboots
-	suit = /obj/item/clothing/suit/armor/vest/cerberus
-	head = /obj/item/clothing/head/helmet/cerberus
+	suit = /obj/item/clothing/suit/storage/vest/opvest
 	belt = /obj/item/weapon/melee/classic_baton//So they at least start off with some kind of weapon to defend themselves.
 	r_pocket = /obj/item/weapon/handcuffs
 	id_type = /obj/item/weapon/card/id/dreyfus/sec

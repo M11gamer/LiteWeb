@@ -56,3 +56,16 @@
 	desc = "A polished cutlass issued to chief petty officers of the fleet."
 	icon_state = "pettyofficersword"
 	item_state = "pettyofficersword"
+
+/obj/item/weapon/material/cross
+	name = "Cross"
+	desc = "Pray for Verina if you don't want this cracking your head."
+	icon_state = "bigcross"
+	item_state = "bigcross"
+	w_class = ITEM_SIZE_LARGE
+	throwforce = 7
+	attack_verb = list("smashed", "beaten", "slammed", "smacked", "struck", "battered", "bonked")
+	hitsound = 'sound/weapons/genhit3.ogg'
+	default_material = "steel"
+	force_divisor = 1.1
+	slot_flags = SLOT_BACK
