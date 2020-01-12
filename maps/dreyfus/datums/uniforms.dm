@@ -28,6 +28,7 @@
 	shoes = /obj/item/clothing/shoes/dress
 	id_type = /obj/item/weapon/card/id/dreyfus/hop
 	pda_type = /obj/item/device/pda/heads/hop
+	gloves = /obj/item/clothing/gloves/white //forgot the gloves nigga
 
 
 /decl/hierarchy/outfit/job/dreyfus/employe
