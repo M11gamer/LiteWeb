@@ -15,7 +15,8 @@
 						/datum/job/chaplain,
 						/datum/job/janitor,
 						/datum/job/arbiter,
-						/datum/job/supreme_arbiter
+						/datum/job/supreme_arbiter,
+						/datum/job/jester
 						///datum/job/rd,
 						///datum/job/scientist,
 						///datum/job/medassist,

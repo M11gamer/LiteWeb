@@ -35,6 +35,7 @@
 	name = OUTFIT_JOB_NAME("Janitor")
 	uniform = /obj/item/clothing/under/rank/janitor
 	suit = /obj/item/clothing/suit/storage/hooded/wintercoat/janitor
+	gloves = /obj/item/clothing/gloves/duty
 	mask = /obj/item/clothing/mask/gas/plaguedoctor
 	id_type = /obj/item/weapon/card/id/civilian/janitor
 	pda_type = /obj/item/device/pda/janitor
