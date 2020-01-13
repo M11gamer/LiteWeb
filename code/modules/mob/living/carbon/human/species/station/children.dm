@@ -27,5 +27,6 @@
 
 /decl/hierarchy/outfit/job/cadet
 	name = "Cadet's Outfit"
-	uniform = /obj/item/clothing/under/child_jumpsuit
+	uniform = /obj/item/clothing/under/cadet_jumpsuit
 	shoes = /obj/item/clothing/shoes/child_shoes
+	l_hand = /obj/item/weapon/material/sword/training

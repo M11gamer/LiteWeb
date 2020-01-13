@@ -97,6 +97,14 @@
 	force_divisor = 0.2
 	thrown_force_divisor = 0.2
 
+/obj/item/weapon/material/sword/training
+	name = "Training sword"
+	icon_state = "trainingsword"
+	edge = 0
+	sharp = 0
+	force_divisor = 0.2
+	thrown_force_divisor = 0.2
+
 /obj/item/weapon/material/sword/katana
 	name = "katana"
 	desc = "Woefully underpowered in D20. This one looks pretty sharp."

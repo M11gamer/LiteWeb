@@ -212,3 +212,12 @@
 	icon_state = "child_grey"
 	can_be_worn_by_child = TRUE
 	child_exclusive = TRUE
+
+/obj/item/clothing/under/cadet_jumpsuit
+	name = "cadet jumpsuit"
+	desc = "Fitted just for kids."
+	icon_state = "child_cadet"
+	can_be_worn_by_child = TRUE
+	child_exclusive = TRUE
+	armor = list(melee = 10, bullet = 0, laser = 0,energy = 0, bomb = 0, bio = 0, rad = 0)
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS
