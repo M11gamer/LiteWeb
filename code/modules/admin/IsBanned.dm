@@ -6,7 +6,7 @@ world/IsBanned(key,address,computer_id)
 
 	//Check if user is whitelisted
 	if(config.useckeywhitelist && !check_ckey_whitelisted(ckey(key)))
-		return list("reason"="priviat", "desc"="\nPrivate party. Pool's closed.")
+		return list("reason"="priviat", "desc"="\You're not invited. discord.gg/ae5AeMR")
 
 	//Guest Checking
 	if(!config.guests_allowed && IsGuestKey(key))
