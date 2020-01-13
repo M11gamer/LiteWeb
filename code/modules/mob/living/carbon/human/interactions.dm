@@ -213,13 +213,13 @@
 
 	H.druggy = 60
 	H.multiorgasms += 1
-	H.erpcooldown = rand(200, 450)
+	H.erpcooldown = rand(100, 200)
 	if (H.multiorgasms > H.potenzia / 3)
 		if (H.staminaloss < P.potenzia * 4)
 			H.staminaloss += H.potenzia
 	if (H.staminaloss > 100)
-		H.druggy = 300
-		H.erpcooldown = 600
+		H.druggy = 50
+		H.erpcooldown = 100
 	H.add_event("came", /datum/happiness_event/came)
 
 	times_came++
@@ -311,7 +311,7 @@ mob/living/carbon/human/proc/fuck(mob/living/carbon/human/H as mob, mob/living/c
 				message = pick(" shoves their dick into [P]'s pussy.")
 				H.lastfucked = P
 				H.lfhole = hole
-			
+
 			if(P.virgin)
 				P.virgin = FALSE
 				H.visible_message("<font color=purple><B>[H] pop's [P]'s cherry.</B></font>")
